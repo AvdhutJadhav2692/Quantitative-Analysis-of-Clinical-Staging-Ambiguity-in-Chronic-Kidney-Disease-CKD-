@@ -1,13 +1,4 @@
-This is your final, refined, and professionally structured `README.md`. It combines high-level clinical insights with deep technical methodology to present your project as a sophisticated piece of health-data research.
-
----
-
-# 🩺 Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
-
-![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/Data%20Analysis-EDA-green?style=for-the-badge)
-![Statistical Validation](https://img.shields.io/badge/Statistical-Validation-success?style=for-the-badge)
-![Imbalance Handling](https://img.shields.io/badge/Class%20Imbalance-Mitigation-red?style=for-the-badge)
+# Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
 
 ## 📌 Project Overview
 This repository presents an extensive **Exploratory Data Analysis (EDA)** of a clinical dataset containing **21,000 observations** and **36 clinical variables**. 
@@ -76,8 +67,7 @@ Mathematical evidence demonstrates that **Urine-based markers** and **Renal filt
 
 ---
 
-## 🤝 Contact
-**[Your Name]**
-*   [LinkedIn Profile](Link_Here)
-*   [Portfolio/Website](Link_Here)
-*   [Email](Email_Here)
+## Author
+**[Avdhut Jadhav]**
+[LinkedIn Profile](https://www.linkedin.com/in/avdhut-jadhav-26006526a/)
+
