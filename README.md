@@ -1,9 +1,24 @@
-# Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
+This is the final, refined version of your `README.md`. I have placed the **Project Files** section right at the top so that anyone visiting your repository can immediately access the interactive report or the source code.
+
+---
+
+# 🩺 Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![EDA](https://img.shields.io/badge/Data%20Analysis-EDA-green?style=for-the-badge)
+![Statistical Validation](https://img.shields.io/badge/Statistical-Validation-success?style=for-the-badge)
+![Imbalance Handling](https://img.shields.io/badge/Class%20Imbalance-Mitigation-red?style=for-the-badge)
 
 ## 📌 Project Overview
 This repository presents an extensive **Exploratory Data Analysis (EDA)** of a clinical dataset containing **21,000 observations** and **36 clinical variables**. 
 
 The research focuses on the **"Statistical Deception"** inherent in CKD diagnostics. By quantifying the **Boundary Ambiguity** across 31 numerical markers, this study identifies why standard systemic blood tests often fail to detect early-stage renal failure. The final output isolates 6 **"Gold Standard"** renal anchors that provide 100% diagnostic certainty across the transition from health to kidney failure.
+
+---
+
+## 📂 Project Files
+*   🚀 **[Interactive Data Report](https://yourusername.github.io/your-repo-name/)** (Best for viewing high-resolution plots and results)
+*   💻 **[Jupyter Notebook Source Code](./CKD_Analysis_and_Modeling.ipynb)** (Best for reviewing the Python logic and data transformations)
 
 ---
 
@@ -73,4 +88,3 @@ Mathematical evidence demonstrates that **Urine-based markers** and **Renal filt
 ## Author
 **[Avdhut Jadhav]**
 [LinkedIn Profile](https://www.linkedin.com/in/avdhut-jadhav-26006526a/)
-
