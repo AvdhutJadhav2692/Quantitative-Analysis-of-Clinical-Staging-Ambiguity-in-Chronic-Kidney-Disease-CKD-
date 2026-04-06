@@ -76,7 +76,6 @@ Mathematical evidence demonstrates that **Urine-based markers** and **Renal filt
 
 ---
 
-## 🤝 Contact
-**[Your Name]**
+## Author
+**Avdhut Jadhav**
 *   [LinkedIn Profile](https://www.linkedin.com/in/avdhut-jadhav-26006526a/)
-*   [Email](jadhavavdhut8887@gmail.com)
