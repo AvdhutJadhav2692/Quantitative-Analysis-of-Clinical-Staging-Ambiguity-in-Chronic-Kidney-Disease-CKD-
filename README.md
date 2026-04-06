@@ -1,8 +1,4 @@
-This is the final, refined version of your `README.md`. I have placed the **Project Files** section right at the top so that anyone visiting your repository can immediately access the interactive report or the source code.
-
----
-
-# 🩺 Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
+# Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![EDA](https://img.shields.io/badge/Data%20Analysis-EDA-green?style=for-the-badge)
