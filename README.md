@@ -1,4 +1,4 @@
-# 🩺 Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
+# Quantitative Analysis of Clinical Staging Ambiguity in Chronic Kidney Disease (CKD)
 
 ## 📌 Project Overview
 This repository presents an extensive **Exploratory Data Analysis (EDA)** of a clinical dataset containing **21,000 observations** and **36 clinical variables**. 
